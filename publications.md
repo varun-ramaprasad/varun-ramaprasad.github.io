@@ -3,7 +3,8 @@ title: Publications
 ---
 
 ## Publications
-- **Title** — **Varun Ramaprasad**, Coauthors — Venue (Year). [DOI](#) [PDF](#)  
+- "All-silicon active bound states in the continuum terahertz metamaterials." Optics & Laser Technology 179 (2024): 111176.
+- 
   Contribution: …
 
 ## Preprints / In preparation
