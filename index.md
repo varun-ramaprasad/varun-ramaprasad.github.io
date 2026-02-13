@@ -7,7 +7,7 @@ title: Home
 Photonics / Optics • Metasurfaces • Nonlinear optics • Computational EM
 
 **Email:** [vramapra@ucsd.edu](mailto:vramapra@ucsd.edu)  
-**LinkedIn:** https://www.linkedin.com/in/varun-ramaprasad/  
+**LinkedIn:** [https://www.linkedin.com/in/varun-ramaprasad/](href:https://www.linkedin.com/in/varun-ramaprasad/)  
 **GitHub:** https://github.com/varun-ramaprasad  
 **Resume:** [PDF](/assets/Varun_Ramaprasad_Resume_long.pdf)
 
