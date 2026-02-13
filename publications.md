@@ -14,4 +14,8 @@ title: Publications
   **Contribution**: Contributed to the dynamical infrared (terahertz) spectroscopy measurements in the multi-PI multi-university collaboration.  
   
 ## Preprints / In preparation
-- **Thesis paper title (in preparation)** — Expected submission: 2026.
+- **Plasmon enhanced second harmonic generation in a three-dimensional Dirac semimetal** <br>
+<u>Varun Ramaprasad</u>, Yuan Zhang, Alexander C Lygo, Sina Ahadi, Kelson Kaj, Sheikh Rubaiat Ul Haque, Jacob Brady, Susanne Stemmer, Richard D Averitt (2026)
+
+- **Nanoslot array platform for tunable nonlinear terahertz spectroscopy** </br>
+<u>Varun Ramaprasad</u>, Yuan Zhang, Eui Young Rho, Minah Seo, Richard D Averitt (2026)
