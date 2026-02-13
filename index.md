@@ -14,11 +14,11 @@ Optics • Metasurfaces • Nonlinear optics • Computational EM
 ---
 
 ## Flagship project: Tunable nonlinear light generation with a quantum material metasurface
-Designed metasurface structures and built advanced optical experiments to validate efficient, tunable nonlinear generation (design → fabrication interface → alignment/measurement → analysis).
+Designed metasurface structures and built advanced optical experiments to validate efficient, tunable nonlinear generation (design → alignment/measurement → analysis).
 
-- **Result:** _Add your best quantified result_ (efficiency, tuning range, stability, etc.)
-- **Tools:** FDTD/FEM, Python/MATLAB, nonlinear optics, optical characterization
-- **My role:** Owned design + experimental setup + validation
+- **Result:** Demonstrated efficient second harmonic generation(SHG) in the far infrared, enhanced by electric fields confined in the metasurface 
+- **Tools:** FDTD/FEM, Python/MATLAB, Nonlinear optics, Optical systems design and characterization
+- **My role:** Designed the structure on CST Microwave studio + Ansys HFSS, developed advanced optical characterization, and validated results through analysis in MATLAB 
 
 [Project sheet (PDF)](/assets/ProjectSheet.pdf)
 
