@@ -13,7 +13,8 @@ Optics • Metasurfaces • Nonlinear optics • Computational EM
 
 ---
 
-## Flagship project: Tunable nonlinear light generation with a quantum material metasurface
+## Flagship project
+Tunable nonlinear light generation with a quantum material metasurface
 Designed metasurface structures and built advanced optical experiments to validate efficient, tunable nonlinear generation (design → alignment/measurement → analysis).
 
 - **Result:** Demonstrated efficient second harmonic generation(SHG) in the far infrared, enhanced by electric fields confined in the metasurface 
