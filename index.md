@@ -26,7 +26,7 @@ Designed metasurface structures made of a Dirac semimetal and built advanced opt
 ---
 
 ## Projects
-- [Tunable Nonlinear Light Generation with Metasurfaces](/projects/metasurface-nlo)
+- [Keystone project](/projects/metasurface-nlo)
 - [Project 2](/projects/project-2)
 - [Project 3](/projects/project-3)
 
