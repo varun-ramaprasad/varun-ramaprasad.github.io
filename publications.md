@@ -3,8 +3,9 @@ title: Publications
 ---
 
 ## Publications
-- "All-silicon active bound states in the continuum terahertz metamaterials." Optics & Laser Technology 179 (2024): 111176.
-- 
+- **All-silicon active bound states in the continuum terahertz metamaterials**, Optics & Laser Technology 179 (2024): 111176
+- Y Huang, K Kaj, Z Yang, E Alvarado, W Man, Y Zhang, V Ramaprasad, RD Averitt, X Zhang [DOI](href:https://doi.org/10.1016/j.optlastec.2024.111176)  
+  Contribution: …
   Contribution: …
 
 ## Preprints / In preparation
