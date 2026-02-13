@@ -27,8 +27,8 @@ Designed metasurface structures made of a Dirac semimetal and built advanced opt
 
 ## Projects
 - [Keystone project](/projects/metasurface-nlo)
-- [Project 2](/projects/project-2)
-- [Project 3](/projects/project-3)
+- [Nanophotonic array for nonlinear optics](/projects/project-2)
+- [Dynamical plasmon-lattice coupling in a topological semimetal](/projects/project-3)
 
 ## Publications
 - [Publications](/publications)
