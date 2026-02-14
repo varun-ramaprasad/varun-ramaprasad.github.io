@@ -4,6 +4,8 @@ title: About me
 ---
 I am a Physics PhD researcher at UC San Diego specializing in the design and experimental validation of advanced optical and electromagnetic systems. My work integrates metasurface photonics, nonlinear light–matter interactions, and predictive electromagnetic simulation to translate theory into functional hardware. I build end-to-end platforms—from modeling and device design to automated measurement and analysis.
 
+<img src="assets/Varun_Ramaprasad_profile.jpeg" width="220" style="border-radius: 50%;">
+
 Optics • Metasurfaces • Nonlinear optics • Computational EM
 
 **Email:** [vramapra@ucsd.edu](mailto:vramapra@ucsd.edu)  
