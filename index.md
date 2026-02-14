@@ -1,8 +1,7 @@
 ---
-
+layout: home
 ---
 
-## Varun Ramaprasad
 Optics • Metasurfaces • Nonlinear optics • Computational EM
 
 **Email:** [vramapra@ucsd.edu](mailto:vramapra@ucsd.edu)  
