@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: About me
 ---
 I am a Physics PhD researcher at UC San Diego specializing in the design and experimental validation of advanced optical and electromagnetic systems. My work integrates metasurface photonics, nonlinear light–matter interactions, and predictive electromagnetic simulation to translate theory into functional hardware. I build end-to-end platforms—from modeling and device design to automated measurement and analysis.
 
