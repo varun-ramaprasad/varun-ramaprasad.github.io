@@ -1,8 +1,7 @@
 ---
 layout: home
-
+title: Home
 ---
-
 Optics • Metasurfaces • Nonlinear optics • Computational EM
 
 **Email:** [vramapra@ucsd.edu](mailto:vramapra@ucsd.edu)  
