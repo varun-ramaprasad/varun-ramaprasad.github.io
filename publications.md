@@ -16,7 +16,7 @@ Anita Verma, Denis Golež, Oleg Yu Gorobtsov, Kelson Kaj, Ryan Russell, Jeffrey 
   **Contribution**: Contributed to the dynamical infrared (terahertz) spectroscopy measurements in the multi-PI multi-university collaboration.  
 
 - **Dissociative electron attachment to supersonically cooled oxygen** <br>
- <u>Varun Ramaprasad</u>,  Irina Jana, Dhananjay Nandi, **Journal of Physics: Conference Series 1412 (17)**
+ <u>Varun Ramaprasad</u>,  Irina Jana, Dhananjay Nandi, **Journal of Physics:Conference Series 1412(17)**
 
   **Contribution**: Demonstrated time-of-flight (TOF) measurements of oxygen clusters using high-speed electronics and electro-optics.
 Developed Python codes for using large-scale TOF data to obtain molecular velocity distribution and auto-identify clusters.
