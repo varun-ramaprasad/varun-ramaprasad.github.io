@@ -1,3 +1,7 @@
 title: Varun Ramaprasad
-description: Photonics / Optics • Metasurfaces • Nonlinear optics • Computational EM
+description: Optics • Metasurfaces • Nonlinear optics • Computational EM
 theme: minima
+
+minima:
+  custom_css:
+    - assets/css/custom.css
