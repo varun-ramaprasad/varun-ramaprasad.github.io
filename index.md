@@ -14,11 +14,12 @@ Optics • Metasurfaces • Nonlinear optics • Computational EM
 ---
 
 ## Keystone project
-Tunable nonlinear light generation with a quantum material metasurface
-Designed metasurface structures made of a Dirac semimetal and built advanced optical experiments to validate efficient tunable nonlinear generation (design → alignment/measurement → analysis).
+Tunable nonlinear light generation with a quantum material metasurface<br>
+Built a metasurface-based photonic device integrated with a quantum material to dramatically enhance nonlinear optical interactions. Developed a custom optical measurement system to demonstrate a 100× increase in nonlinear light generation.   
 
-- **Result:** Demonstrated efficient second harmonic generation(SHG) in the far infrared, enhanced by electric fields confined in the metasurface 
-- **Tools:** FDTD/FEM, Python/MATLAB, Nonlinear optics, Optical systems design and characterization
+
+- **Result:** Plasmonic field confinement combined with a low-loss quantum material platform enables highly efficient second-harmonic generation.
+- **Tools:** FDTD/FEM, Nonlinear optics, Optical systems design and characterization, Python/MATLAB
 - **My role:** Designed the structure on CST Microwave studio + Ansys HFSS, developed advanced optical characterization, and validated results through analysis in MATLAB 
 
 [Project sheet (PDF)](/assets/ProjectSheet.pdf)
