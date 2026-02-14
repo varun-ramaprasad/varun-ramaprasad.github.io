@@ -18,8 +18,7 @@ Anita Verma, Denis Golež, Oleg Yu Gorobtsov, Kelson Kaj, Ryan Russell, Jeffrey 
 - **Dissociative electron attachment to supersonically cooled oxygen** <br>
  <u>Varun Ramaprasad</u>,  Irina Jana, Dhananjay Nandi, **Journal of Physics:Conference Series 1412(17)**
 
-  **Contribution**: Demonstrated time-of-flight (TOF) measurements of oxygen clusters using high-speed electronics and electro-optics.
-Developed Python codes for using large-scale TOF data to obtain molecular velocity distribution and auto-identify clusters.
+  **Contribution**: Performed time-of-flight (TOF) measurements of oxygen clusters using high-speed electronics and electro-optics in ultrahigh vacuum(UHV). Developed Python codes for using large-scale TOF data to obtain molecular velocity distribution and auto-identify clusters.
  
 ## Preprints / In preparation
 - **Plasmon enhanced second harmonic generation in a three-dimensional Dirac semimetal** <br>
