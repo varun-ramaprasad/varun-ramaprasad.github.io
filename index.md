@@ -1,6 +1,5 @@
 ---
-layout: home
-title: Research portfolio
+
 ---
 
 ## Varun Ramaprasad
