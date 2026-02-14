@@ -38,12 +38,12 @@ Kelson Kaj, Huaiyu Hugo Wang, Peter Kissin, Yakun Yuan, <u>Varun Ramaprasad</u>,
 APS Global Physics Summit, Anaheim CA 2025
 - Broadband terahertz spectroscopy in reflection of three-dimensional Dirac semimetal Cd3As2<br>
 APS March Meeting, Minneapolis MN 2024
-- Terahertz studies of 3D Dirac Semimetal Cd3As2<br>
-Gordon Research Conference, Ventura CA 2022
 - Dynamical terahertz spectroscopy of three-dimensional Dirac semimetal Cd3As2<br>
 APS March Meeting, Las Vegas NV 2023
+- Terahertz studies of 3D Dirac Semimetal Cd3As2<br>
+Gordon Research Conference, Ventura CA 2022
 
 ## Thesis
 - **Dissociative Electron Attachment to Jet Cooled Oxygen** <br>
- <u>Varun Ramaprasad</u>, Shortlist for Best MS Thesis, IISER Kolkata (2019)
+ <u>Varun Ramaprasad</u>, **Shortlist for Best MS Thesis**, IISER Kolkata (2019)
 
