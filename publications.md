@@ -20,7 +20,7 @@ title: Publications
 - **Nanoslot array platform for tunable nonlinear terahertz spectroscopy** <br>
 <u>Varun Ramaprasad</u>, Yuan Zhang, Eui Young Rho, Minah Seo, Richard D Averitt (2026)
 
-- **Ultrafast Mid-Infrared Pump-Optical Probe Spectroscopy of High-Tc superconductor parent compound - inslulating La2CuO4**</br>
+- **Ultrafast Mid-Infrared Pump-Optical Probe Spectroscopy of High-Tc superconductor parent compound - inslulating La2CuO4**<br>
 Mustafa Ali, Kelson Kaj, <u>Varun Ramaprasad</u>, Eli Zohglin, Steven Gomez, Stephen Wilson, Richard Averitt (2026)
 
 - **Mid-infrared pump-probe study of quasiparticle dynamics in Ca3Ru2O7** <br>
