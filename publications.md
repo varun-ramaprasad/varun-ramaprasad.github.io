@@ -12,7 +12,9 @@ title: Publications
   **Nature Physics 20 (5), 807-814** [DOI](https://doi.org/10.1038/s41567-024-02396-1)  
   
   **Contribution**: Contributed to the dynamical infrared (terahertz) spectroscopy measurements in the multi-PI multi-university collaboration.  
-  
+
+ - **Dissociative Electron Attachment to Jet Cooled Oxygen** <br>
+ <u>Varun Ramaprasad</u>, Shortlist for Best MS Thesis, IISER Kolkata (2019)
 ## Preprints / In preparation
 - **Plasmon enhanced second harmonic generation in a three-dimensional Dirac semimetal** <br>
 <u>Varun Ramaprasad</u>, Yuan Zhang, Alexander C Lygo, Sina Ahadi, Kelson Kaj, Sheikh Rubaiat Ul Haque, Jacob Brady, Susanne Stemmer, Richard D Averitt (2026)
@@ -25,3 +27,11 @@ Mustafa Ali, Kelson Kaj, <u>Varun Ramaprasad</u>, Eli Zohglin, Steven Gomez, Ste
 
 - **Mid-infrared pump-probe study of quasiparticle dynamics in Ca3Ru2O7** <br>
 Kelson Kaj, Huaiyu Hugo Wang, Peter Kissin, Yakun Yuan, <u>Varun Ramaprasad</u>, Mustafa Ali, Nathan Koocher, Danilo Puggioni, Venkatraman Gopalan, Zhiqiang Mao, James Rondinelli, Richard Averitt
+
+## Conference abstracts
+- Tunable terahertz plasmonic response in three-dimensional Dirac semimetal cadmium arsenide<br>
+APS Global Physics Summit, Anaheim 2025
+- Broadband terahertz spectroscopy in reflection of three-dimensional Dirac semimetal Cd3As2<br>
+APS March Meeting, Minneapolis 2024
+- Dynamical terahertz spectroscopy of three-dimensional Dirac semimetal Cd3As2<br>
+APS March Meeting, Las Vegas 2023
