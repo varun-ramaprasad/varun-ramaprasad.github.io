@@ -24,7 +24,7 @@ Built a metasurface-based photonic device integrated with a quantum material to 
 - **Tools:** FDTD/FEM, Nonlinear optics, Optical systems design and characterization, Python/MATLAB
 - **My role:** Designed the structure on CST Microwave studio + Ansys HFSS, developed advanced optical characterization, and validated results through analysis in MATLAB 
 
-[Project sheet (PDF)](/assets/ProjectSheet.pdf)
+<!--[Project sheet (PDF)](/assets/ProjectSheet.pdf)-->
 
 ---
 
