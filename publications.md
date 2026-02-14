@@ -13,8 +13,9 @@ title: Publications
   
   **Contribution**: Contributed to the dynamical infrared (terahertz) spectroscopy measurements in the multi-PI multi-university collaboration.  
 
- - **Dissociative Electron Attachment to Jet Cooled Oxygen** <br>
- <u>Varun Ramaprasad</u>, Shortlist for Best MS Thesis, IISER Kolkata (2019)
+-**Dissociative electron attachment to supersonically cooled oxygen** <br>
+ <u>Varun Ramaprasad</u>,  Irina Jana, Dhananjay Nandi, **Journal of Physics: Conference Series 1412 (17)**
+ 
 ## Preprints / In preparation
 - **Plasmon enhanced second harmonic generation in a three-dimensional Dirac semimetal** <br>
 <u>Varun Ramaprasad</u>, Yuan Zhang, Alexander C Lygo, Sina Ahadi, Kelson Kaj, Sheikh Rubaiat Ul Haque, Jacob Brady, Susanne Stemmer, Richard D Averitt (2026)
@@ -33,5 +34,9 @@ Kelson Kaj, Huaiyu Hugo Wang, Peter Kissin, Yakun Yuan, <u>Varun Ramaprasad</u>,
 APS Global Physics Summit, Anaheim 2025
 - Broadband terahertz spectroscopy in reflection of three-dimensional Dirac semimetal Cd3As2<br>
 APS March Meeting, Minneapolis 2024
+
+## Thesis
+- **Dissociative Electron Attachment to Jet Cooled Oxygen** <br>
+ <u>Varun Ramaprasad</u>, Shortlist for Best MS Thesis, IISER Kolkata (2019)
 - Dynamical terahertz spectroscopy of three-dimensional Dirac semimetal Cd3As2<br>
 APS March Meeting, Las Vegas 2023
