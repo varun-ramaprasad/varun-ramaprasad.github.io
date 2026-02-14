@@ -17,11 +17,11 @@ title: Publications
 - **Plasmon enhanced second harmonic generation in a three-dimensional Dirac semimetal** <br>
 <u>Varun Ramaprasad</u>, Yuan Zhang, Alexander C Lygo, Sina Ahadi, Kelson Kaj, Sheikh Rubaiat Ul Haque, Jacob Brady, Susanne Stemmer, Richard D Averitt (2026)
 
-- **Nanoslot array platform for tunable nonlinear terahertz spectroscopy** </br>
+- **Nanoslot array platform for tunable nonlinear terahertz spectroscopy** <br>
 <u>Varun Ramaprasad</u>, Yuan Zhang, Eui Young Rho, Minah Seo, Richard D Averitt (2026)
 
 - **Ultrafast Mid-Infrared Pump-Optical Probe Spectroscopy of High-Tc superconductor parent compound - inslulating La2CuO4**</br>
 Mustafa Ali, Kelson Kaj, <u>Varun Ramaprasad</u>, Eli Zohglin, Steven Gomez, Stephen Wilson, Richard Averitt (2026)
 
-- **Mid-infrared pump-probe study of quasiparticle dynamics in Ca3Ru2O7** </br>
+- **Mid-infrared pump-probe study of quasiparticle dynamics in Ca3Ru2O7** <br>
 Kelson Kaj, Huaiyu Hugo Wang, Peter Kissin, Yakun Yuan, <u>Varun Ramaprasad</u>, Mustafa Ali, Nathan Koocher, Danilo Puggioni, Venkatraman Gopalan, Zhiqiang Mao, James Rondinelli, Richard Averitt
