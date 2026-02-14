@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-## Publications
+## Published
 - **All-silicon active bound states in the continuum terahertz metamaterials**, Y Huang, K Kaj, Z Yang, E Alvarado, W Man, Y Zhang, <u>V Ramaprasad</u>, RD Averitt, X Zhang<br>
   **Optics & Laser Technology 179 (2024): 111176** [DOI](https://doi.org/10.1016/j.optlastec.2024.111176)  
   
