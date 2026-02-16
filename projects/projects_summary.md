@@ -3,7 +3,8 @@ title: Research projects
 ---
 
 ### PhD Thesis Research — Metasurface-Enhanced Nonlinear Optics
-- **Challenge** Enable efficient solid-state photon frequency conversion by engineering strong light–matter interactions in low-loss quantum materials.
+- **Challenge**
+    Enable efficient solid-state photon frequency conversion by engineering strong light–matter interactions in low-loss quantum materials.
 - **Technical Strategy**
   + Designed infrared metasurface resonators using FDTD and FEM simulations (CST / COMSOL) to maximize near-field enhancement and mode overlap.
   + Achieved ~10× local plasmonic field enhancement at target IR frequency through geometry optimization and dispersion engineering.
