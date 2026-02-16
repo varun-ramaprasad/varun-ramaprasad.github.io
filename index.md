@@ -17,12 +17,12 @@ Optics • Metasurfaces • Nonlinear optics • Computational EM
 
 ## Keystone project
 <u>Tunable nonlinear light generation with a quantum material metasurface</u><br>
-Built a metasurface-based photonic device integrated with a quantum material to dramatically enhance nonlinear optical interactions. Developed a custom optical measurement system to demonstrate a 100× increase in nonlinear light generation.   
+Developed a metasurface-based photonic device integrated with a quantum material to dramatically enhance nonlinear optical interactions in the infrared. Developed an advanced optical measurement system to demonstrate a 100× increase in nonlinear light generation.   
 
 
-- **Result:** Plasmonic field confinement combined with a low-loss quantum material platform enables highly efficient second-harmonic generation.
+- **Result:** Plasmonic field confinement combined with a low-loss quantum material platform enables highly efficient second-harmonic generation at room temperature.
 - **Tools:** FDTD/FEM, Nonlinear optics, Optical systems design and characterization, Python/MATLAB
-- **My role:** Designed the structure on CST Microwave studio + Ansys HFSS, developed advanced optical characterization, and validated results through analysis in MATLAB 
+- **My role:** Designed the structure on CST Microwave studio + Ansys HFSS, developed advanced optical characterization, and validated experimental results through analysis in MATLAB and Python.
 
 <!--[Project sheet (PDF)](/assets/ProjectSheet.pdf)-->
 
