@@ -26,4 +26,4 @@ Developed a metasurface-based photonic device integrated with a quantum material
 ---
 
 ## Publications
-- [Publications](/publications)
+- [List of publications](/publications)
