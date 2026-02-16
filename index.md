@@ -28,10 +28,5 @@ Developed a metasurface-based photonic device integrated with a quantum material
 
 ---
 
-## Projects
-- [Keystone project](/projects/metasurface-nlo)
-- [Nanophotonic array for nonlinear optics](/projects/project-2)
-- [Dynamical plasmon-lattice coupling in a topological semimetal](/projects/project-3)
-
 ## Publications
 - [Publications](/publications)
