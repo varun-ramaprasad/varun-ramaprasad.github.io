@@ -19,7 +19,7 @@ Optics • Metasurfaces • Nonlinear optics • Computational EM
 <u>Tunable nonlinear light generation with a quantum material metasurface</u><br>
 Developed a metasurface-based photonic device integrated with a quantum material to dramatically enhance nonlinear optical interactions in the infrared. Developed an advanced optical measurement system to demonstrate a 100× increase in nonlinear light generation.   
 
-[Brief summary of PhD research](/assets/prokects_summary.md)
+[Brief summary of PhD research](/assets/projects_summary.md)
 
 <!--[Project sheet (PDF)](/assets/ProjectSheet.pdf)-->
 
