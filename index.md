@@ -11,7 +11,7 @@ Optics • Metasurfaces • Nonlinear optics • Computational EM
 **Email:** [vramapra@ucsd.edu](mailto:vramapra@ucsd.edu)  
 **LinkedIn:** [www.linkedin.com/in/varun-ramaprasad/](https://www.linkedin.com/in/varun-ramaprasad/)  
 **GitHub:** [varun-ramaprasad](https://github.com/varun-ramaprasad)  
-**Resume:** [PDF](/assets/Varun_Ramaprasad_Optics.pdf)
+**Resume:** [PDF](/assets/Varun_Ramaprasad_Optics_2.pdf)
 
 ---
 
